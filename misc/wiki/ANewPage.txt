@@ -1,0 +1,1 @@
+esta é uma wiki page feita em go.
